@@ -1,7 +1,7 @@
-import React from "react";
-
-const LeftMenu = () => {
-  return <div>LeftMenu</div>;
-};
-
-export default LeftMenu;
+export default function LeftMenu() {
+  return (
+    <>
+      <div className="">content</div>
+    </>
+  );
+}

@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function AddPost() {
   return (
     <>
-      <div className=" p-4 bg-white rounded-lg shadow-md flex gap-4 justify-between text-sm ">
+      <div className=" p-4 bg-white rounded-lg shadow-sm flex gap-4 justify-between text-sm ">
         {/* Avatar  */}
         <Image
           src="https://th.bing.com/th/id/R.241a60509853b7c708d95d39f947f9dc?rik=P4HIWjMs0GVVkA&pid=ImgRaw&r=0"
