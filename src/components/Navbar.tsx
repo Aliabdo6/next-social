@@ -115,7 +115,7 @@ export const Navbar = () => {
             <SignedOut>
               <div className="flex items-center gap-2 text-sm">
                 <Image
-                  src="/login.png"
+                  src="/noAvatar.png"
                   alt=""
                   width={20}
                   height={20}
