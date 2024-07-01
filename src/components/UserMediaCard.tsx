@@ -71,6 +71,22 @@ export default function UserMediaCard({
               className=" object-cover rounded-md "
             />
           </div>
+          <div className=" relative w-1/5 h-24  ">
+            <Image
+              src="https://th.bing.com/th/id/R.241a60509853b7c708d95d39f947f9dc?rik=P4HIWjMs0GVVkA&pid=ImgRaw&r=0"
+              alt=""
+              fill
+              className=" object-cover rounded-md "
+            />
+          </div>
+          <div className=" relative w-1/5 h-24  ">
+            <Image
+              src="https://th.bing.com/th/id/R.241a60509853b7c708d95d39f947f9dc?rik=P4HIWjMs0GVVkA&pid=ImgRaw&r=0"
+              alt=""
+              fill
+              className=" object-cover rounded-md "
+            />
+          </div>
         </div>
       </div>
     </>
